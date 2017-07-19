@@ -1,0 +1,5 @@
+D:\src\GpsTracker\TrackerDB\bin\Debug\TrackerDB.dacpac
+D:\src\GpsTracker\TrackerDB\bin\Debug\TrackerDB.dll
+D:\src\GpsTracker\TrackerDB\bin\Debug\TrackerDB.pdb
+D:\src\GpsTracker\TrackerDB\obj\Debug\TrackerDB.dll
+D:\src\GpsTracker\TrackerDB\obj\Debug\TrackerDB.pdb

@@ -1,0 +1,34 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[gpslocations] (Table)
+       [dbo].[DF_gpslocations_LastUpdate] (Default Constraint)
+       [dbo].[DF_gpslocations_latitude] (Default Constraint)
+       [dbo].[DF_gpslocations_longitude] (Default Constraint)
+       [dbo].[DF_gpslocations_phoneNumber] (Default Constraint)
+       [dbo].[DF_gpslocations_userName] (Default Constraint)
+       [dbo].[DF_gpslocations_sessionID] (Default Constraint)
+       [dbo].[DF_gpslocations_speed] (Default Constraint)
+       [dbo].[DF_gpslocations_direction] (Default Constraint)
+       [dbo].[DF_gpslocations_distance] (Default Constraint)
+       [dbo].[DF_gpslocations_gpsTime] (Default Constraint)
+       [dbo].[DF_gpslocations_locationMethod] (Default Constraint)
+       [dbo].[DF_gpslocations_accuracy] (Default Constraint)
+       [dbo].[DF_gpslocations_eventType] (Default Constraint)
+       [dbo].[DF_gpslocations_extraInfo] (Default Constraint)
+       [dbo].[prcDeleteRoute] (Procedure)
+       [dbo].[prcGetAllRoutesForMap] (Procedure)
+       [dbo].[prcGetRouteForMap] (Procedure)
+       [dbo].[prcGetRoutes] (Procedure)
+       [dbo].[prcSaveGpsLocation] (Procedure)
+
+** Supporting actions

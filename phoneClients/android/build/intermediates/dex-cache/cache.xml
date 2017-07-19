@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.8.0_6c9a58f58e195a0bcbf723a5a559d7b0bafdd84b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.8.0_dff8bf52c1ea4bce4c8060efda879483550a931a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_0b800c0192d569827a756e33ffe06b97d2c0bedc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_8b4090039ed4f944951464b0d85799bae680dd97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_05321ed10e9a51e22eff5877636e3954890cb2c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_5f8f46e7967b0c6c621c9a6d55c8db2410ac1ac2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.8.0_b5f15387d75435b7482c1cf38b1ab54a7643fd21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_952c29a6bc889269d1844d18fff3e6704dc89479.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.8.0_e1cee8aa968ba4a418bdcc0fd29acd11316d8be7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.8.0_a3e4afc98a7671ee3bebac93ef85be8c2ead6219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_fc542b339968292b0dfb8f482b09b6622519f82a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.8.0_8916c221e15ee6e957ec5269023d70a88bf4a08e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_71e1d3fc24620267ba6ebad7cd9dbbe265b91eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.8.0_7b59a2be6665f690f2c00c103e6131293857c9bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.8.0_988dffbc088027343056f8f0e0e3486bcd4a61bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_6193ac1ef383dd52bfce52aac94941cef146d969.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.8.0_d181f63e659722206c96c2e82722a41bb5501f6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.8.0_a87611447a7d65652a1158ba6076f931427feb4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukul\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_a73b4a3402dc189827e2d658b9188d070d8d2302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.8.0_e7ec334ede3f267ae2022b10e094c5c545087668.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.8.0_c4d728398d2e15337e0c7989b01122c3940a9e94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_1e91aaa2a03852b566a469885064d79b53e6598a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.8.0_be2ec61e709997e800803b30bdb2fe1eb91a3ee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.8.0_0a21059526764d3b068f41cda75e8145c8b91aa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.8.0_4797d5afb0e6730418cfb491b3a4fb8e18029185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.8.0_8d00f6ab2525ce4b43b0440bd68735926e1ca357.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.8.0_cc69339d52cb1924290cebeb6978d55f4c37859c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_10520b09353653e5713e0b2e75e4e9788898be45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.8.0_7cfe66e5b1df8021f7efa1951db4ed06b1224ef1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_114dee501ce7b4c003a4171a724f301f0077294e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukul\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_f6750a1c58fdd3fd2a9fb21eb511e3fb55226ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_d355acabd60f1711fb7a8efb280d698a4be48ba2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-9.8.0_90bed0de661e3023ffd2e7715e1180587e5c5190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.8.0_33ddc8b1037eaba0fc85e5c5f88454cd53426209.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.8.0_f51b40c3473273f912894e179de471390703518c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_b3c84a15ff98209df4456bb382babb853fbbacde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.8.0_e6f61edc58a26ab23e5ce0b94036949fc60b402d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_4da12f1bccb8357e91850c79a06b319a08fbe8bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.8.0_8facf7878085718d0697afd7bfe076457ff729f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.8.0_3d78d1e8d654e68758928cae11ff7d2be658f6b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.8.0_2797aa83ea4705a9495f16bc07e7d2d774196b18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-9.8.0_d3ddf55c2fe1b8344274793ce7859fbd252d9f4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukul\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6_b400daf46c347138ff86f26dad8eb01ade329df6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_003b42b2cd41609334b212a1ab04095ae5ba965f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.8.0_6a05113613987fd5e9f0ae0fd4ef64668f8c578a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_6d13ffc5886795acff2b8caca2814df626987971.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.8.0_601ad1d2d59d700a5229aaa3d64796bd8dd6b4e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.0.0_3d5a34a0e80746583fe919b20e94c058d3da39e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.8.0_49cbaa9b3ad4d118e81713e4bd4ac1d5d187127b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.8.0_ad4387e639dbf05b12ce549c37ea540d15ab1636.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.8.0_09c5581210e6683be8d096259c20bea2f3994539.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-9.8.0_44f59296e0536b792379efa334104177acbdebfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.8.0_0797391ddacebeb6de0475133e1cef5270e86632.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.8.0_7ce39ad313991528633949ad86395dc583af7c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.8.0_54f90119bb71ee39672637f1a2bf831d68b959fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-9.8.0_ba2cda2e72c1bddadeac922be99c20f64fdea7aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.8.0_10185e978ec37d04bd14e3d88dadb71410c78cb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.8.0_9753ddeddad2d8318ab1f665bc26d58ab488b6cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_bf56888fdcb359d4ac6e2363a5e81f42caaa7a4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.8.0_abedc7887b11bd04dbc6f11ad5e1dea76203c789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.8.0_82939b6a240914c820edd91c3092574e1721ecb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.8.0_fd2497d69029c5a63219b76d03f6b3e3af464db3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.8.0_c5d2de08751d7710fbb7494afce04195e4211607.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_dbe0559f35e08f00b4c304ff2ed1be4da4dcdd74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_af915762999f9529591de3f5fc502d06c05cacd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.8.0_35c831d013da477e0adc55ac53d3ac8d52d959ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_7e9981f1e6eeca730a451134b9c0c3437993150a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.8.0_0c9632f8ff1728bd4a2d81cb3c413802415c309f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="D:\src\GpsTracker\phoneClients\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.8.0_577487d736f357849ecfe2ddbc8680aeb77cddb4.jar" />
+    </item>
+
+</items>
