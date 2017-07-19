@@ -1,0 +1,10 @@
+D:\src\GpsTracker\servers\netCore\GpsTracker\GpsTracker\bin\Release\netcoreapp1.1\GpsTracker.deps.json
+D:\src\GpsTracker\servers\netCore\GpsTracker\GpsTracker\bin\Release\netcoreapp1.1\GpsTracker.runtimeconfig.json
+D:\src\GpsTracker\servers\netCore\GpsTracker\GpsTracker\bin\Release\netcoreapp1.1\GpsTracker.runtimeconfig.dev.json
+D:\src\GpsTracker\servers\netCore\GpsTracker\GpsTracker\bin\Release\netcoreapp1.1\GpsTracker.dll
+D:\src\GpsTracker\servers\netCore\GpsTracker\GpsTracker\bin\Release\netcoreapp1.1\GpsTracker.pdb
+D:\src\GpsTracker\servers\netCore\GpsTracker\GpsTracker\obj\Release\netcoreapp1.1\GpsTracker.csprojResolveAssemblyReference.cache
+D:\src\GpsTracker\servers\netCore\GpsTracker\GpsTracker\obj\Release\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+D:\src\GpsTracker\servers\netCore\GpsTracker\GpsTracker\obj\Release\netcoreapp1.1\GpsTracker.AssemblyInfo.cs
+D:\src\GpsTracker\servers\netCore\GpsTracker\GpsTracker\obj\Release\netcoreapp1.1\GpsTracker.dll
+D:\src\GpsTracker\servers\netCore\GpsTracker\GpsTracker\obj\Release\netcoreapp1.1\GpsTracker.pdb

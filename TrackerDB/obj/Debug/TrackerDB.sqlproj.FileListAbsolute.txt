@@ -3,3 +3,7 @@ D:\src\GpsTracker\TrackerDB\bin\Debug\TrackerDB.dll
 D:\src\GpsTracker\TrackerDB\bin\Debug\TrackerDB.pdb
 D:\src\GpsTracker\TrackerDB\obj\Debug\TrackerDB.dll
 D:\src\GpsTracker\TrackerDB\obj\Debug\TrackerDB.pdb
+D:\src\GpsTracker\TrackerDB\obj\Debug\Model.xml
+D:\src\GpsTracker\TrackerDB\obj\Debug\refactor.xml
+D:\src\GpsTracker\TrackerDB\obj\Debug\postdeploy.sql
+D:\src\GpsTracker\TrackerDB\obj\Debug\predeploy.sql
