@@ -12,31 +12,50 @@ using webforms;
 
 public partial class Account_Login : Page
 {
-        protected void Page_Load(object sender, EventArgs e)
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        RegisterHyperLink.NavigateUrl = "Register";
+        OpenAuthLogin.ReturnUrl = Request.QueryString["ReturnUrl"];
+        var returnUrl = HttpUtility.UrlEncode(Request.QueryString["ReturnUrl"]);
+        if (!String.IsNullOrEmpty(returnUrl))
         {
-            RegisterHyperLink.NavigateUrl = "Register";
-            OpenAuthLogin.ReturnUrl = Request.QueryString["ReturnUrl"];
-            var returnUrl = HttpUtility.UrlEncode(Request.QueryString["ReturnUrl"]);
-            if (!String.IsNullOrEmpty(returnUrl))
+            RegisterHyperLink.NavigateUrl += "?ReturnUrl=" + returnUrl;
+        }
+    }
+    protected void LogIn(object sender, EventArgs e)
+    {
+        if (IsValid)
+        {
+            // Validate the user password
+            var manager = new UserManager();
+            ApplicationUser user = manager.Find(UserName.Text, Password.Text);
+            if (user != null)
             {
-                RegisterHyperLink.NavigateUrl += "?ReturnUrl=" + returnUrl;
+                IdentityHelper.SignIn(manager, user, RememberMe.Checked);
+                IdentityHelper.RedirectToReturnUrl(Request.QueryString["ReturnUrl"], Response);
+            }
+            else
+            {
+                FailureText.Text = "Invalid username or password.";
+                ErrorMessage.Visible = true;
             }
         }
+    }
 
     protected void LoginControl_Authenticate(object sender, EventArgs e)
     {
-        bool authenticated = this.ValidateCredentials(LoginControl.UserName, LoginControl.Password);
+        //bool authenticated = this.ValidateCredentials(LoginControl.UserName, LoginControl.Password);
 
 
-        //if (authenticated)
-        {
-            // The default expiration timeout is taken from Web.config
-            // and is 30 minutes only (for both persistent and non-persistent cookies). This is well documented
-            // design flaw in ASP.NET Forms Authentication framework and should be manually workarounded!
+        ////if (authenticated)
+        //{
+        //    // The default expiration timeout is taken from Web.config
+        //    // and is 30 minutes only (for both persistent and non-persistent cookies). This is well documented
+        //    // design flaw in ASP.NET Forms Authentication framework and should be manually workarounded!
 
-            FormsAuthentication.RedirectFromLoginPage(LoginControl.UserName, LoginControl.RememberMeSet);
+        //    FormsAuthentication.RedirectFromLoginPage(LoginControl.UserName, LoginControl.RememberMeSet);
 
-        }
+        //}
     }
 
     private bool IsAlphaNumeric(string text)
