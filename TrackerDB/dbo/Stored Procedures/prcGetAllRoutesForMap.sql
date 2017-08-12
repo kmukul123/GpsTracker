@@ -20,7 +20,7 @@ SELECT
 FROM (SELECT MAX(GPSLocationID) ID
       FROM gpslocations
       WHERE sessionID != '0'
-      GROUP BY sessionID) AS MaxID
+      GROUP BY appID) AS MaxID
 JOIN gpslocations ON gpslocations.GPSLocationID = MaxID.ID
 ORDER BY gpsTime
 

@@ -14,6 +14,7 @@
     [accuracy]       INT             CONSTRAINT [DF_gpslocations_accuracy] DEFAULT ((0)) NOT NULL,
     [eventType]      NVARCHAR (50)   CONSTRAINT [DF_gpslocations_eventType] DEFAULT ('') NOT NULL,
     [extraInfo]      NVARCHAR (255)  CONSTRAINT [DF_gpslocations_extraInfo] DEFAULT ('') NOT NULL,
+    [appID] NVARCHAR(50) NOT NULL, 
     CONSTRAINT [PK_gpslocations] PRIMARY KEY CLUSTERED ([GPSLocationID] ASC)
 );
 
